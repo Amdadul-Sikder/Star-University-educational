@@ -1,0 +1,17 @@
+nav.navbar{
+    /* position: absolute; */
+    width: 100%;
+    z-index: 999;
+}
+a.nav-link {
+    color: #fff;
+}
+.navbar-brand{
+    color: #fff;
+    font-size: 30px;
+}
+ul.menu {
+    display: flex;
+    align-items: center;
+    margin: 0;
+}

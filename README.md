@@ -1,6 +1,6 @@
 # Star University
 
-Live website Link [https://dev-team-assignment-8.netlify.app](https://dev-team-assignment-8.netlify.app/).
+Live website Link [https://eduncational-assignment-9.netlify.app/](https://eduncational-assignment-9.netlify.app/).
 
 ## About this Website
 

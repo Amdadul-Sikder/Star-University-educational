@@ -4,6 +4,6 @@ Live website Link [https://dev-team-assignment-8.netlify.app](https://dev-team-a
 
 ## About this Website
 
-* Educational Website.\
-* React base website.\
+* Educational Website.
+* React base website.
 * React router included.
